@@ -3,7 +3,7 @@
 This is a simple ETL example using Apache Airflow to schedule a task that extracts loan data from the Snowflake data warehouse for Solaris Bank.
 
 ## Project Structure
-- `dags loan.py`: Airflow DAG file that runs the SQL query.
+- `Dags loan.py`: Airflow DAG file that runs the SQL query.
 - `SQL loan.sql`: SQL script to extract outstanding loans.
 
 ## Tech Stack
