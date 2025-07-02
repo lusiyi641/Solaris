@@ -4,7 +4,7 @@ This is a simple ETL example using Apache Airflow to schedule a task that extrac
 
 ## Project Structure
 - `dags loan.py`: Airflow DAG file that runs the SQL query.
-- `sql loan.sql`: SQL script to extract outstanding loans.
+- `SQL loan.sql`: SQL script to extract outstanding loans.
 
 ## Tech Stack
 - Apache Airflow (Workflow orchestration)
