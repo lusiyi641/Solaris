@@ -4,7 +4,6 @@ solarisb_demo/
 │   └── loan_etl_dag.py        # Airflow DAG
 │
 ├── sql/
-│   └── extract_loan.sql       # 提取 loan 表数据的 SQL
+│   └── extract_loan.sql       # Extract loan via SQL
 │
-├── README.md                  # 说明文件
-└── requirements.txt           # 依赖包
+├── README.md                  # Readme
